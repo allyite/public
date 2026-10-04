@@ -1,0 +1,15 @@
+{
+    "name": "sapphire_v1",
+    "description": "Minimal test: chat bg + channel bg only.",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": ["#0b121e"],
+        "BACKGROUND_SECONDARY": ["#14294c"]
+    }
+}
