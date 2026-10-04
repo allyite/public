@@ -1,0 +1,22 @@
+{
+    "name": "sapphire_v7",
+    "description": "Test: PLUM_15-24 group = red (channel list?).",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "rawColors": {
+        "PLUM_15": "#ff0000",
+        "PLUM_16": "#ff0000",
+        "PLUM_17": "#ff0000",
+        "PLUM_18": "#ff0000",
+        "PLUM_19": "#ff0000",
+        "PLUM_20": "#ff0000",
+        "PLUM_22": "#ff0000",
+        "PLUM_23": "#ff0000",
+        "PLUM_24": "#ff0000"
+    }
+}
