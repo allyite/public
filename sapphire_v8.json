@@ -1,0 +1,15 @@
+{
+    "name": "sapphire_v8",
+    "description": "Test: SURFACE_RAISED + MOD_MUTED = red (channel list?).",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_SURFACE_RAISED": ["#ff0000"],
+        "BACKGROUND_MOD_MUTED": ["#ff0000"]
+    }
+}
