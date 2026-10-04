@@ -1,5 +1,5 @@
 {
-  "name": "ClearVision Sapphire v2",
+  "name": "ClearVision Sapphire v3",
   "description": "Aetheris base recolored to sapphire-blue with ClearVision-style shaded sapphire background image and greyish chat-list subtext.",
   "version": "2.0",
   "authors": [
@@ -220,7 +220,7 @@
     "ROLE_DEFAULT": "#a0a8b8"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/allyite/public/refs/heads/main/clearvision-sapphire-bg.jpg",
+    "url": "https://raw.githubusercontent.com/allyite/public/refs/heads/main/clearvision-sapphire-bg-dark.jpg",
     "alpha": 1
   },
   "fonts": {
