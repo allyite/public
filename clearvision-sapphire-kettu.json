@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision Sapphire v9",
+    "name": "ClearVision Sapphire v10",
     "description": "rainForest base converted to sapphire-blue (wide key coverage): dark chat image, dark channel list, lighter-blue server list.",
     "authors": [
         {
@@ -9,9 +9,9 @@
     ],
     "semanticColors": {
         "CHAT_BACKGROUND": ["transparent"],
-        "BACKGROUND_PRIMARY": ["transparent"],
-        "BACKGROUND_MOBILE_PRIMARY": ["transparent"],
-        "BG_BASE_PRIMARY": ["transparent"],
+        "BACKGROUND_PRIMARY": ["#142a50"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#142a50"],
+        "BG_BASE_PRIMARY": ["#142a50"],
 
         "PANEL_BG": ["#142a50"],
         "BACKGROUND_SECONDARY": ["#142a50"],
