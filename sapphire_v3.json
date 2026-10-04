@@ -1,0 +1,14 @@
+{
+    "name": "sapphire_v3",
+    "description": "Control test: known-working BRAND_500 to confirm the theme applies.",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "rawColors": {
+        "BRAND_500": "#ff0000"
+    }
+}
