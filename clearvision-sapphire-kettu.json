@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision Sapphire v6",
+    "name": "ClearVision Sapphire v7",
     "description": "rainForest base converted to sapphire-blue: dark chat image, sapphire server/channel lists, blue accents, grey channel text.",
     "authors": [
         {
@@ -9,34 +9,34 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#0f1829"
+            "#182c4e"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "#1b2b45"
+            "#274a7a"
         ],
         "PANEL_BG": [
-            "#16233b"
+            "#203c66"
         ],
         "BACKGROUND_SURFACE_RAISED": [
-            "#1b2b45"
+            "#274a7a"
         ],
         "BACKGROUND_BRAND": [
-            "#223a5e"
+            "#30548c"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#16233b"
+            "#182c4e"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#16233b"
+            "#182c4e"
         ],
         "INTERACTIVE_TEXT_DEFAULT": [
             "#a0a8b8"
         ],
         "EMBED_BACKGROUND": [
-            "#1b2b45"
+            "#274a7a"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#16233b"
+            "#182c4e"
         ]
     },
     "rawColors": {
@@ -46,11 +46,11 @@
         "PRIMARY_300": "#2780e6",
         "PRIMARY_360": "#5a76a8",
         "PRIMARY_400": "#2780e6",
-        "PRIMARY_600": "#223a5e",
-        "PRIMARY_630": "#223a5e",
-        "PRIMARY_660": "#223a5e",
-        "PRIMARY_700": "#223a5e",
-        "PRIMARY_800": "#223a5e",
+        "PRIMARY_600": "#30548c",
+        "PRIMARY_630": "#30548c",
+        "PRIMARY_660": "#30548c",
+        "PRIMARY_700": "#30548c",
+        "PRIMARY_800": "#30548c",
         "BLACK_500": "#000000fa",
         "BRAND_260": "#2780e6",
         "BRAND_360": "#2780e6",
@@ -62,15 +62,15 @@
         "WHITE_500": "#a0a8b8",
         "GREEN_360": "#43b581",
         "BLUE_345": "#2780e6",
-        "PLUM_24": "#0f1829",
-        "PLUM_23": "#0f1829",
-        "PLUM_22": "#16233b",
-        "PLUM_20": "#16233b",
-        "PLUM_19": "#0f1829",
-        "PLUM_18": "#1b2b45",
-        "PLUM_17": "#1b2b45",
-        "PLUM_16": "#223a5e",
-        "PLUM_15": "#1b2b45",
+        "PLUM_24": "#182c4e",
+        "PLUM_23": "#182c4e",
+        "PLUM_22": "#203c66",
+        "PLUM_20": "#203c66",
+        "PLUM_19": "#182c4e",
+        "PLUM_18": "#274a7a",
+        "PLUM_17": "#274a7a",
+        "PLUM_16": "#30548c",
+        "PLUM_15": "#274a7a",
         "PLUM_13": "#2780e6",
         "PLUM_10": "#c2c9d6",
         "PLUM_3": "#dde4ef",
@@ -83,10 +83,6 @@
         "alpha": 1,
         "size": "cover",
         "position": "center"
-    },
-    "plus": {
-        "version": "0",
-        "iconpack": "solar"
     },
     "spec": 2
 }
