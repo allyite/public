@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Sapphire v10",
-    "description": "rainForest base converted to sapphire-blue (wide key coverage): dark chat image, dark channel list, lighter-blue server list.",
+    "name": "ClearVision Sapphire",
+    "description": "rainForest recolored: green -> blue. Nothing else changed from the original structure.",
     "authors": [
         {
             "name": "soapkid (recolored)",
@@ -8,84 +8,105 @@
         }
     ],
     "semanticColors": {
-        "CHAT_BACKGROUND": ["transparent"],
-        "BACKGROUND_PRIMARY": ["#142a50"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#142a50"],
-        "BG_BASE_PRIMARY": ["#142a50"],
-
-        "PANEL_BG": ["#142a50"],
-        "BACKGROUND_SECONDARY": ["#142a50"],
-        "BACKGROUND_SECONDARY_ALT": ["#142a50"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#142a50"],
-        "BG_BASE_SECONDARY": ["#142a50"],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#142a50"],
-        "INPUT_BACKGROUND_DEFAULT": ["#142a50"],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#142a50"],
-
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#22406e"],
-        "BACKGROUND_TERTIARY": ["#22406e"],
-        "BG_BASE_TERTIARY": ["#22406e"],
-        "BACKGROUND_BASE_LOWEST": ["#22406e"],
-        "HOME_BACKGROUND": ["#22406e"],
-        "BACKGROUND_MOD_MUTED": ["#22406e"],
-        "BACKGROUND_SURFACE_RAISED": ["#22406e"],
-        "EMBED_BACKGROUND": ["#22406e"],
-        "CARD_PRIMARY_BG": ["#22406e"],
-        "CARD_SECONDARY_BG": ["#274a7a"],
-        "BACKGROUND_FLOATING": ["#22406e"],
-        "BACKGROUND_NESTED_FLOATING": ["#22406e"],
-
-        "BACKGROUND_BRAND": ["#30548c"],
-        "INTERACTIVE_TEXT_DEFAULT": ["#a0a8b8"],
-
-        "BACKGROUND_MODIFIER_HOVER": ["#FFFFFF0F"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF14"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF1A"]
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#15233c"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "#2a4f85"
+        ],
+        "PANEL_BG": [
+            "#1d3a63"
+        ],
+        "BACKGROUND_SURFACE_RAISED": [
+            "#2a4f85"
+        ],
+        "BACKGROUND_BRAND": [
+            "#356099"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#15233c"
+        ],
+        "INPUT_BACKGROUND_DEFAULT": [
+            "#15233c"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#2780e6"
+        ],
+        "EMBED_BACKGROUND": [
+            "#2a4f85"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#15233c"
+        ]
     },
     "rawColors": {
         "PRIMARY_500": "#2780e6",
         "PRIMARY_100": "#f4f4f4",
-        "PRIMARY_200": "#cdd6e5",
+        "PRIMARY_200": "#d0cfef",
         "PRIMARY_300": "#2780e6",
-        "PRIMARY_360": "#5a76a8",
+        "PRIMARY_360": "#7e8ecc",
         "PRIMARY_400": "#2780e6",
-        "PRIMARY_600": "#22406e",
-        "PRIMARY_630": "#22406e",
-        "PRIMARY_660": "#22406e",
-        "PRIMARY_700": "#22406e",
-        "PRIMARY_800": "#22406e",
+        "PRIMARY_600": "#356099",
+        "PRIMARY_630": "#356099",
+        "PRIMARY_660": "#356099",
+        "PRIMARY_700": "#356099",
+        "PRIMARY_800": "#356099",
         "BLACK_500": "#000000fa",
         "BRAND_260": "#2780e6",
         "BRAND_360": "#2780e6",
         "BRAND_500": "#2780e6",
         "BRAND_560": "#1e63b3",
-        "YELLOW_300": "#faa61a",
-        "GREEN_600": "#43b581",
+        "YELLOW_300": "#dbbc7f",
+        "GREEN_600": "#83c092",
         "RED_400": "#e67e80",
-        "WHITE_500": "#a0a8b8",
-        "GREEN_360": "#43b581",
+        "WHITE_500": "#a7aaab",
+        "GREEN_360": "#83c092",
         "BLUE_345": "#2780e6",
-        "PLUM_24": "#22406e",
-        "PLUM_23": "#22406e",
-        "PLUM_22": "#142a50",
-        "PLUM_20": "#142a50",
-        "PLUM_19": "#22406e",
-        "PLUM_18": "#22406e",
-        "PLUM_17": "#22406e",
-        "PLUM_16": "#30548c",
-        "PLUM_15": "#22406e",
+        "PLUM_24": "#15233c",
+        "PLUM_23": "#15233c",
+        "PLUM_22": "#1d3a63",
+        "PLUM_20": "#1d3a63",
+        "PLUM_19": "#15233c",
+        "PLUM_18": "#2a4f85",
+        "PLUM_17": "#2a4f85",
+        "PLUM_16": "#356099",
+        "PLUM_15": "#2a4f85",
         "PLUM_13": "#2780e6",
-        "PLUM_10": "#c2c9d6",
-        "PLUM_3": "#dde4ef",
-        "PLUM_9": "#dde4ef",
-        "PLUM_6": "#dde4ef",
-        "PLUM_1": "#dde4ef"
+        "PLUM_10": "#d1c4aa",
+        "PLUM_3": "#e2ead5",
+        "PLUM_9": "#e2ead5",
+        "PLUM_6": "#e2ead5",
+        "PLUM_1": "#e2ead5"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/allyite/public/refs/heads/main/clearvision-chat-bg.jpg",
         "alpha": 1,
         "size": "cover",
         "position": "center"
+    },
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/sraben-grotesk.bold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1"
+    },
+    "plus": {
+        "version": "0"
     },
     "spec": 2
 }
