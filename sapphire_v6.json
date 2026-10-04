@@ -1,0 +1,14 @@
+{
+    "name": "sapphire_v6",
+    "description": "Test: PANEL_BG alone = red (channel list?).",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "PANEL_BG": ["#ff0000"]
+    }
+}
