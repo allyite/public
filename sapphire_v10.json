@@ -1,0 +1,14 @@
+{
+    "name": "sapphire_v10",
+    "description": "Test: EMBED_BACKGROUND alone = red (channel list bg?).",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "EMBED_BACKGROUND": ["#ff0000"]
+    }
+}
