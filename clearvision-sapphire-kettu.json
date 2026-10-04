@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Sapphire v8",
-    "description": "rainForest base converted to sapphire-blue: dark chat image, sapphire server/channel lists, blue accents, grey channel text.",
+    "name": "ClearVision Sapphire v9",
+    "description": "rainForest base converted to sapphire-blue (wide key coverage): dark chat image, dark channel list, lighter-blue server list.",
     "authors": [
         {
             "name": "soapkid (recolored)",
@@ -8,36 +8,39 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#1f3b66"
-        ],
-        "BACKGROUND_MOD_MUTED": [
-            "#274a7a"
-        ],
-        "PANEL_BG": [
-            "#142a50"
-        ],
-        "BACKGROUND_SURFACE_RAISED": [
-            "#274a7a"
-        ],
-        "BACKGROUND_BRAND": [
-            "#30548c"
-        ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#142a50"
-        ],
-        "INPUT_BACKGROUND_DEFAULT": [
-            "#142a50"
-        ],
-        "INTERACTIVE_TEXT_DEFAULT": [
-            "#a0a8b8"
-        ],
-        "EMBED_BACKGROUND": [
-            "#274a7a"
-        ],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#142a50"
-        ]
+        "CHAT_BACKGROUND": ["transparent"],
+        "BACKGROUND_PRIMARY": ["transparent"],
+        "BACKGROUND_MOBILE_PRIMARY": ["transparent"],
+        "BG_BASE_PRIMARY": ["transparent"],
+
+        "PANEL_BG": ["#142a50"],
+        "BACKGROUND_SECONDARY": ["#142a50"],
+        "BACKGROUND_SECONDARY_ALT": ["#142a50"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#142a50"],
+        "BG_BASE_SECONDARY": ["#142a50"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#142a50"],
+        "INPUT_BACKGROUND_DEFAULT": ["#142a50"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#142a50"],
+
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#22406e"],
+        "BACKGROUND_TERTIARY": ["#22406e"],
+        "BG_BASE_TERTIARY": ["#22406e"],
+        "BACKGROUND_BASE_LOWEST": ["#22406e"],
+        "HOME_BACKGROUND": ["#22406e"],
+        "BACKGROUND_MOD_MUTED": ["#22406e"],
+        "BACKGROUND_SURFACE_RAISED": ["#22406e"],
+        "EMBED_BACKGROUND": ["#22406e"],
+        "CARD_PRIMARY_BG": ["#22406e"],
+        "CARD_SECONDARY_BG": ["#274a7a"],
+        "BACKGROUND_FLOATING": ["#22406e"],
+        "BACKGROUND_NESTED_FLOATING": ["#22406e"],
+
+        "BACKGROUND_BRAND": ["#30548c"],
+        "INTERACTIVE_TEXT_DEFAULT": ["#a0a8b8"],
+
+        "BACKGROUND_MODIFIER_HOVER": ["#FFFFFF0F"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF14"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#FFFFFF1A"]
     },
     "rawColors": {
         "PRIMARY_500": "#2780e6",
@@ -46,11 +49,11 @@
         "PRIMARY_300": "#2780e6",
         "PRIMARY_360": "#5a76a8",
         "PRIMARY_400": "#2780e6",
-        "PRIMARY_600": "#30548c",
-        "PRIMARY_630": "#30548c",
-        "PRIMARY_660": "#30548c",
-        "PRIMARY_700": "#30548c",
-        "PRIMARY_800": "#30548c",
+        "PRIMARY_600": "#22406e",
+        "PRIMARY_630": "#22406e",
+        "PRIMARY_660": "#22406e",
+        "PRIMARY_700": "#22406e",
+        "PRIMARY_800": "#22406e",
         "BLACK_500": "#000000fa",
         "BRAND_260": "#2780e6",
         "BRAND_360": "#2780e6",
@@ -62,15 +65,15 @@
         "WHITE_500": "#a0a8b8",
         "GREEN_360": "#43b581",
         "BLUE_345": "#2780e6",
-        "PLUM_24": "#1f3b66",
-        "PLUM_23": "#1f3b66",
+        "PLUM_24": "#22406e",
+        "PLUM_23": "#22406e",
         "PLUM_22": "#142a50",
         "PLUM_20": "#142a50",
-        "PLUM_19": "#1f3b66",
-        "PLUM_18": "#274a7a",
-        "PLUM_17": "#274a7a",
+        "PLUM_19": "#22406e",
+        "PLUM_18": "#22406e",
+        "PLUM_17": "#22406e",
         "PLUM_16": "#30548c",
-        "PLUM_15": "#274a7a",
+        "PLUM_15": "#22406e",
         "PLUM_13": "#2780e6",
         "PLUM_10": "#c2c9d6",
         "PLUM_3": "#dde4ef",
