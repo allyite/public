@@ -1,0 +1,14 @@
+{
+    "name": "sapphire_v9",
+    "description": "Test: ANDROID_NAVIGATION_SCRIM_BACKGROUND alone = red (channel list bg?).",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#ff0000"]
+    }
+}
