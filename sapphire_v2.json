@@ -1,0 +1,15 @@
+{
+    "name": "sapphire_v2",
+    "description": "Minimal test: chat bg + channel bg via rawColors PRIMARY.",
+    "authors": [
+        {
+            "name": "test",
+            "id": "0"
+        }
+    ],
+    "spec": 2,
+    "rawColors": {
+        "PRIMARY_630": "#0b121e",
+        "PRIMARY_600": "#14294c"
+    }
+}
