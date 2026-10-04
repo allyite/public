@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision Sapphire v7",
+    "name": "ClearVision Sapphire v8",
     "description": "rainForest base converted to sapphire-blue: dark chat image, sapphire server/channel lists, blue accents, grey channel text.",
     "authors": [
         {
@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#182c4e"
+            "#1f3b66"
         ],
         "BACKGROUND_MOD_MUTED": [
             "#274a7a"
         ],
         "PANEL_BG": [
-            "#203c66"
+            "#142a50"
         ],
         "BACKGROUND_SURFACE_RAISED": [
             "#274a7a"
@@ -24,10 +24,10 @@
             "#30548c"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#182c4e"
+            "#142a50"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#182c4e"
+            "#142a50"
         ],
         "INTERACTIVE_TEXT_DEFAULT": [
             "#a0a8b8"
@@ -36,7 +36,7 @@
             "#274a7a"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#182c4e"
+            "#142a50"
         ]
     },
     "rawColors": {
@@ -62,11 +62,11 @@
         "WHITE_500": "#a0a8b8",
         "GREEN_360": "#43b581",
         "BLUE_345": "#2780e6",
-        "PLUM_24": "#182c4e",
-        "PLUM_23": "#182c4e",
-        "PLUM_22": "#203c66",
-        "PLUM_20": "#203c66",
-        "PLUM_19": "#182c4e",
+        "PLUM_24": "#1f3b66",
+        "PLUM_23": "#1f3b66",
+        "PLUM_22": "#142a50",
+        "PLUM_20": "#142a50",
+        "PLUM_19": "#1f3b66",
         "PLUM_18": "#274a7a",
         "PLUM_17": "#274a7a",
         "PLUM_16": "#30548c",
